@@ -1,2 +1,2 @@
-print("yeganeh yousefpour")
-print("salam ")
+print("yeganeh_yousefpour")
+print("salam")
