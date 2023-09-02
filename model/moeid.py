@@ -1,1 +1,1 @@
-print("salam be hame")
+print("salam")
